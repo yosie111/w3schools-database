@@ -1,6 +1,5 @@
 # W3Schools Database
-w3schools-database
-SQL Server Management Studio
+# SQL Server Management Studio
 
 I'm not associated with W3Schools but I have to give them a big shout-out. This is their website:
 https://www.w3schools.com
