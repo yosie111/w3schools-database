@@ -26,8 +26,3 @@ When the SQL file is executed it creates database named __w3schools__ with the f
     suppliers
     
 and inserts the respective data. 
-
-You can change the database name if you want by modifying these 2 lines of code
-
-    CREATE DATABASE IF NOT EXISTS `w3schools`
-    USE `w3schools`;
